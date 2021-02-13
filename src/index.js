@@ -11,7 +11,7 @@ const title = 'Header of';
 render(
   <div>
     <Header title={title} /><br/>
-    <h2>React + Webpack5</h2>
+    <h2>React + Webpack5 for GitHub Workshop</h2>
   </div>,
   document.getElementById('app')
 );
